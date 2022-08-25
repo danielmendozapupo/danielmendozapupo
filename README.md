@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielmendozapupo
 - 👀 I’m interested in Automation, using Ansible and Python
-- 🌱 I’m currently working as a Network Developer as part of an SRE team.
+- 🌱 I’m currently working as a Software Automation Engineer.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me through my email: daniel.mendozapupo@gmail.com
 
